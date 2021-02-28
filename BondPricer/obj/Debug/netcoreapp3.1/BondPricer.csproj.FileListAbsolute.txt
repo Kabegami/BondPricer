@@ -1,0 +1,13 @@
+C:\Users\lucas\source\repos\BoundEngine\BoundEngine\bin\Debug\netcoreapp3.1\BondPricer.exe
+C:\Users\lucas\source\repos\BoundEngine\BoundEngine\bin\Debug\netcoreapp3.1\BondPricer.deps.json
+C:\Users\lucas\source\repos\BoundEngine\BoundEngine\bin\Debug\netcoreapp3.1\BondPricer.runtimeconfig.json
+C:\Users\lucas\source\repos\BoundEngine\BoundEngine\bin\Debug\netcoreapp3.1\BondPricer.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\BoundEngine\BoundEngine\bin\Debug\netcoreapp3.1\BondPricer.dll
+C:\Users\lucas\source\repos\BoundEngine\BoundEngine\bin\Debug\netcoreapp3.1\BondPricer.pdb
+C:\Users\lucas\source\repos\BoundEngine\BoundEngine\obj\Debug\netcoreapp3.1\BondPricer.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\BoundEngine\BoundEngine\obj\Debug\netcoreapp3.1\BondPricer.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\BoundEngine\BoundEngine\obj\Debug\netcoreapp3.1\BondPricer.AssemblyInfo.cs
+C:\Users\lucas\source\repos\BoundEngine\BoundEngine\obj\Debug\netcoreapp3.1\BondPricer.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\BoundEngine\BoundEngine\obj\Debug\netcoreapp3.1\BondPricer.dll
+C:\Users\lucas\source\repos\BoundEngine\BoundEngine\obj\Debug\netcoreapp3.1\BondPricer.pdb
+C:\Users\lucas\source\repos\BoundEngine\BoundEngine\obj\Debug\netcoreapp3.1\BondPricer.genruntimeconfig.cache
